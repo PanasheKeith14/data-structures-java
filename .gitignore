@@ -1,0 +1,11 @@
+id="f3n0c9"
+# IntelliJ
+.idea/
+*.iml
+
+# Compiled files
+out/
+target/
+
+# OS files
+.DS_Store
